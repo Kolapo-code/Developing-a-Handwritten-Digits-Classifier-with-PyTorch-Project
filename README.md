@@ -10,5 +10,3 @@ As a machine learning engineer, you’ve gained familiarity with deep learning, 
 
 
 ## Before you get started, please see the rubric(opens in a new tab), and be sure to see the Jupyter Notebook on the Environments to get started.
-
-
